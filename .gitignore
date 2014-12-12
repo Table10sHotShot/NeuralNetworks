@@ -1,3 +1,4 @@
 *.pyc
 *.swp
 theano_RNN.py
+.idea/workspace.xml
